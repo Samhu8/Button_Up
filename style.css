@@ -1,0 +1,33 @@
+
+
+.first {
+    font-size: 15px;
+    padding-right: 28px;
+    padding-left: 28px;
+    color: rgb(5, 196, 196);
+    background-color: whitesmoke;
+    border-color: rgb(5, 196, 196);
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.second {
+    font-size: 15px;
+    color: whitesmoke;
+    background-color: rgb(5, 196, 196);
+    border-color: rgb(5, 196, 196);
+    border-radius: 12px;
+    margin: 10px;
+}
+
+.third {
+    font-size: 15px;
+    padding-top: 2px;
+    padding-right: 20px;
+    padding-bottom: 2px;
+    padding-left: 20px;
+    color: whitesmoke;
+    background-color: rgb(4, 138, 248);
+    margin: 10px;
+    box-shadow: 4px 4px 2px 1px black;
+}
